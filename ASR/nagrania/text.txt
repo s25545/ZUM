@@ -1,0 +1,33 @@
+kamien1 kamień
+kamien2 kamień
+kamien3 kamień
+kamien4 kamień
+kamien5 kamień
+koniec_gry1 koniec gry
+koniec_gry2 koniec gry
+koniec_gry3 koniec gry
+koniec_gry4 koniec gry
+koniec_gry5 koniec gry
+nozyce1 nożyce
+nozyce2 nożyce
+nozyce3 nożyce
+nozyce4 nożyce
+nozyce5 nożyce
+papier1 papier
+papier2 papier
+papier3 papier
+papier4 papier
+papier5 papier
+start1 start
+start2 start
+start3 start
+start4 start
+start5 start
+zagrajmy_ponownie1 zagrajmy ponownie
+zagrajmy_ponownie2 zagrajmy ponownie
+zagrajmy_ponownie3 zagrajmy ponownie
+zagrajmy_ponownie4 zagrajmy ponownie
+zagrajmy_ponownie5 zagrajmy ponownie
+
+
+
